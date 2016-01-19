@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Алёна Тихонова](https://htmlacademy.ru/profile/id76008).
-* Наставник: [Никита Рогатнев](https://htmlacademy.ru/profile/id86119).
+* Наставник: [Никита html Рогатнев](https://htmlacademy.ru/profile/id86119).
 
 ---
 
